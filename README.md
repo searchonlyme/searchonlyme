@@ -1,5 +1,7 @@
 # SearchOnly
 
+> **SearchOnly** is a creator discovery and search engine that helps users find OnlyFans creators by niche, category, and interest.
+
 <p align="center">
   <a href="https://searchonly.me">
     <img src="https://searchonly.me/logo.svg" alt="SearchOnly Logo" width="120" height="120">
@@ -13,8 +15,28 @@
 <p align="center">
   <a href="https://searchonly.me">Website</a> •
   <a href="#features">Features</a> •
+  <a href="#why-searchonly-exists">Why It Exists</a> •
   <a href="CHANGELOG.md">Changelog</a>
 </p>
+
+---
+
+## Disclaimer
+
+**SearchOnly does not host creator profiles or adult content.**
+It provides structured descriptions and search functionality only. All content belongs to the respective creators on their original platforms.
+
+---
+
+## Why SearchOnly Exists
+
+Discovering creators shouldn't be this hard:
+
+- **Creators are hard to discover** — Social feeds bury content in algorithmic noise
+- **Search is broken** — Creator platforms don't offer meaningful search or filters
+- **Users need structured discovery** — Not random recommendations, but intentional search by preferences
+
+SearchOnly solves this by indexing public creator profiles and providing powerful search tools.
 
 ---
 
@@ -42,7 +64,7 @@ Filter by:
 Upload any photo and our AI will find creators with similar features. Fast, free, and no registration required.
 
 ### 📍 Near Me
-Discover OnlyFans creators in your area with location-based search. Your privacy is always protected.
+Discover creators in your area with location-based search. Your privacy is always protected.
 
 ### 🌍 Multi-Language Support
 Available in 7 languages:
