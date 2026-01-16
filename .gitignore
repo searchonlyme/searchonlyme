@@ -1,0 +1,57 @@
+# ===========================================
+# IGNORE EVERYTHING - Only public files go to GitHub
+# ===========================================
+
+# Ignore all files by default
+*
+
+# ===========================================
+# ALLOW ONLY PUBLIC FILES FOR GITHUB
+# ===========================================
+
+# Public documentation
+!README.md
+!CHANGELOG.md
+!LICENSE
+
+# Allow .gitignore itself
+!.gitignore
+
+# ===========================================
+# Keep these ignored even if unignored above
+# ===========================================
+
+# Environment and secrets (NEVER commit)
+.env*
+*.pem
+*.key
+keys/
+
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Test outputs
+coverage/
+playwright-report/
+test-results/
