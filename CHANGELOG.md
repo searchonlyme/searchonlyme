@@ -4,7 +4,7 @@ All notable changes to SearchOnly will be documented in this file.
 
 See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [1.0.0](https://github.com/AggOnly/searchonly/releases/tag/v1.0.0) (2026-01-17)
+## 1.0.0 (2026-01-17)
 
 ### Features
 
