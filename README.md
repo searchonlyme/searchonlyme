@@ -17,11 +17,14 @@
   <a href="http://status.searchonly.me"><img src="https://img.shields.io/badge/uptime-99.9%25-brightgreen" alt="Uptime"></a>
   <img src="https://img.shields.io/badge/profiles-2M%2B-blue" alt="Indexed Profiles">
   <img src="https://img.shields.io/badge/languages-7-orange" alt="Languages">
+  <a href="https://chromewebstore.google.com/detail/fanpanel-by-searchonly/khpgaekmabokiijjjbmoeakpccpdoenl"><img src="https://img.shields.io/chrome-web-store/v/khpgaekmabokiijjjbmoeakpccpdoenl?label=chrome" alt="Chrome Web Store"></a>
+  <a href="https://addons.mozilla.org/firefox/addon/fanpanel-by-searchonly/"><img src="https://img.shields.io/amo/v/fanpanel-by-searchonly?label=firefox" alt="Firefox Add-ons"></a>
 </p>
 
 <p align="center">
   <a href="https://searchonly.me">Website</a> •
   <a href="#features">Features</a> •
+  <a href="#browser-extension">Extension</a> •
   <a href="#why-searchonly-exists">Why It Exists</a> •
   <a href="http://status.searchonly.me">Status</a> •
   <a href="CHANGELOG.md">Changelog</a>
@@ -86,6 +89,29 @@ Available in 7 languages:
 - 🇯🇵 日本語
 - 🇰🇷 한국어
 
+## Browser Extension
+
+**FanPanel by SearchOnly** — search OnlyFans creators directly from your browser with AI-powered photo search, smart filters, and access to 2M+ indexed profiles.
+
+### Features
+- AI-powered keyword search
+- Photo search to find similar creators
+- 19+ filter categories (appearance, content, location, price)
+- Location-based search (country, city)
+- Browser sidebar panel
+- Dark mode support
+- Full privacy (no tracking)
+
+### Install
+
+| Browser | Version | Link |
+|---------|---------|------|
+| Chrome | 88+ | [Chrome Web Store](https://chromewebstore.google.com/detail/fanpanel-by-searchonly/khpgaekmabokiijjjbmoeakpccpdoenl) |
+| Firefox | 109+ | [Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/fanpanel-by-searchonly/) |
+| Opera | 74+ | Coming soon |
+
+🔗 **Learn more**: [searchonly.me/extension](https://searchonly.me/extension)
+
 ## Stats
 
 | Metric | Value |
@@ -116,6 +142,7 @@ Subscribe to status updates to get notified about any service disruptions or sch
 - 🔍 **Search**: [searchonly.me/search](https://searchonly.me/search)
 - 📸 **Photo Search**: [searchonly.me/photo-search](https://searchonly.me/photo-search)
 - 📍 **Near Me**: [searchonly.me/near-me](https://searchonly.me/near-me)
+- 🧩 **Browser Extension**: [searchonly.me/extension](https://searchonly.me/extension)
 - 📊 **Status**: [status.searchonly.me](http://status.searchonly.me)
 - ❓ **FAQ**: [searchonly.me/faq](https://searchonly.me/faq)
 - 📧 **Contact**: [searchonly.me/contact](https://searchonly.me/contact)
