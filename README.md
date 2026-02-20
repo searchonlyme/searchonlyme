@@ -26,6 +26,8 @@
   <a href="#features">Features</a> •
   <a href="#browser-extension">Extension</a> •
   <a href="#why-searchonly-exists">Why It Exists</a> •
+  <a href="#community--social">Social</a> •
+  <a href="#creator-resources">Resources</a> •
   <a href="http://status.searchonly.me">Status</a> •
   <a href="CHANGELOG.md">Changelog</a>
 </p>
@@ -146,6 +148,46 @@ Subscribe to status updates to get notified about any service disruptions or sch
 - 📊 **Status**: [status.searchonly.me](http://status.searchonly.me)
 - ❓ **FAQ**: [searchonly.me/faq](https://searchonly.me/faq)
 - 📧 **Contact**: [searchonly.me/contact](https://searchonly.me/contact)
+
+## Community & Social
+
+### Social Media
+| Platform | Link |
+|----------|------|
+| Facebook | [facebook.com/searchonlyme](https://www.facebook.com/searchonlyme/) |
+| Instagram | [instagram.com/searchonlyme](https://www.instagram.com/searchonlyme) |
+| X (Twitter) | [x.com/searchonlyme](https://x.com/searchonlyme) |
+| Threads | [threads.com/@searchonlyme](https://www.threads.com/@searchonlyme) |
+| Bluesky | [searchonlyme.bsky.social](https://bsky.app/profile/searchonlyme.bsky.social) |
+| Mastodon | [mastodon.social/@searchonlyme](https://mastodon.social/@searchonlyme) |
+| Telegram | [t.me/searchonlyme](https://t.me/searchonlyme) |
+| Pinterest | [pinterest.com/searchonlydotme](https://www.pinterest.com/searchonlydotme/) |
+
+### Content & Publishing
+| Platform | Link |
+|----------|------|
+| Medium | [medium.com/@searchonlyme](https://medium.com/@searchonlyme) |
+| Substack | [substack.com/@searchonlyme](https://substack.com/@searchonlyme) |
+| Dev.to | [dev.to/searchonlyme](https://dev.to/searchonlyme) |
+| Quora | [searchonly.quora.com](https://searchonly.quora.com/) |
+| Issuu | [issuu.com/searchonlyme](https://issuu.com/searchonlyme) |
+| Notion | [notion.com/@searchonlyme](https://www.notion.com/@searchonlyme) |
+| Disqus | [disqus.com/by/searchonlyme](https://disqus.com/by/searchonlyme/) |
+
+### Bio & Link Pages
+| Platform | Link |
+|----------|------|
+| Linktree | [linktr.ee/searchonlyme](https://linktr.ee/searchonlyme) |
+| Beacons | [beacons.ai/searchonlyme](https://beacons.ai/searchonlyme) |
+| Campsite | [campsite.bio/searchonlyme](https://campsite.bio/searchonlyme) |
+| Lnk.Bio | [lnk.bio/searchonlyme](https://lnk.bio/searchonlyme) |
+| About.me | [about.me/searchonlyme](https://about.me/searchonlyme) |
+
+## Creator Resources
+
+Free tools and templates for OnlyFans creators:
+
+- 📋 [Creator Command Center](https://www.notion.com/templates/creator-command-center-free-onlyfans-content-planner-reve) — Free OnlyFans content planner & revenue tracker (Notion template)
 
 ## Frequently Asked Questions
 
