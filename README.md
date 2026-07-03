@@ -1,6 +1,6 @@
 # SearchOnly
 
-> **SearchOnly** is the #1 OnlyFans search engine and creator discovery platform. Find OnlyFans creators by niche, category, location, and interest. The best OnlyFans finder and directory with 2M+ indexed profiles.
+> **SearchOnly** is the #1 OnlyFans search engine and creator discovery platform. Find OnlyFans creators by niche, category, location, and interest. The best OnlyFans finder and directory with 2.3M+ indexed profiles.
 
 <p align="center">
   <a href="https://searchonly.me">
@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://searchonly.me"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsearchonly.me&label=website" alt="Website Status"></a>
   <a href="http://status.searchonly.me"><img src="https://img.shields.io/badge/uptime-99.9%25-brightgreen" alt="Uptime"></a>
-  <img src="https://img.shields.io/badge/profiles-2M%2B-blue" alt="Indexed Profiles">
+  <img src="https://img.shields.io/badge/profiles-2.3M%2B-blue" alt="Indexed Profiles">
   <img src="https://img.shields.io/badge/languages-7-orange" alt="Languages">
   <a href="https://chromewebstore.google.com/detail/fanpanel-by-searchonly/khpgaekmabokiijjjbmoeakpccpdoenl"><img src="https://img.shields.io/chrome-web-store/v/khpgaekmabokiijjjbmoeakpccpdoenl?label=chrome" alt="Chrome Web Store"></a>
   <a href="https://addons.mozilla.org/firefox/addon/fanpanel-by-searchonly/"><img src="https://img.shields.io/amo/v/fanpanel-by-searchonly?label=firefox" alt="Firefox Add-ons"></a>
@@ -24,10 +24,11 @@
 <p align="center">
   <a href="https://searchonly.me">Website</a> •
   <a href="#features">Features</a> •
+  <a href="#free-creator-tools">Tools</a> •
+  <a href="#blog--guides">Blog</a> •
   <a href="#browser-extension">Extension</a> •
   <a href="#why-searchonly-exists">Why It Exists</a> •
   <a href="#community--social">Social</a> •
-  <a href="#creator-resources">Resources</a> •
   <a href="http://status.searchonly.me">Status</a> •
   <a href="CHANGELOG.md">Changelog</a>
 </p>
@@ -55,7 +56,7 @@ SearchOnly solves this by indexing public creator profiles and providing powerfu
 
 ## About
 
-**SearchOnly** is the largest **OnlyFans creator search engine** and **OnlyFans finder** with over **2,000,000+ indexed profiles**. Our AI-powered platform helps users discover and find OnlyFans creators based on their preferences using advanced filters and smart search capabilities.
+**SearchOnly** is the largest **OnlyFans creator search engine** and **OnlyFans finder** with over **2,300,000+ indexed profiles**. Our AI-powered platform helps users discover and find OnlyFans creators based on their preferences using advanced filters and smart search capabilities.
 
 Whether you're looking for a specific type of creator, searching OnlyFans by location, or want to find similar creators using photo search — SearchOnly is the ultimate **OnlyFans directory** and **creator discovery tool**.
 
@@ -93,7 +94,7 @@ Available in 7 languages:
 
 ## Browser Extension
 
-**FanPanel by SearchOnly** — search OnlyFans creators directly from your browser with AI-powered photo search, smart filters, and access to 2M+ indexed profiles.
+**FanPanel by SearchOnly** — search OnlyFans creators directly from your browser with AI-powered photo search, smart filters, and access to 2.3M+ indexed profiles.
 
 ### Features
 - AI-powered keyword search
@@ -114,11 +115,47 @@ Available in 7 languages:
 
 🔗 **Learn more**: [searchonly.me/extension](https://searchonly.me/extension)
 
+## Free Creator Tools
+
+Free, no-registration tools for OnlyFans creators — built by SearchOnly:
+
+| Tool | What it does | Link |
+|------|--------------|------|
+| ✍️ **Bio Generator** | Generate a scroll-stopping OnlyFans bio in seconds | [onlyfans-bio-generator](https://searchonly.me/tools/onlyfans-bio-generator) |
+| 💸 **Tip Menu Builder** | Build and export a formatted tip menu / PPV price list | [onlyfans-tip-menu-builder](https://searchonly.me/tools/onlyfans-tip-menu-builder) |
+| 📈 **Income Calculator** | Estimate monthly earnings from subscribers, tips, and PPV | [onlyfans-income-calculator](https://searchonly.me/tools/onlyfans-income-calculator) |
+| 🏷️ **Pricing Calculator** | Find the optimal subscription price for your audience | [onlyfans-pricing-calculator](https://searchonly.me/tools/onlyfans-pricing-calculator) |
+
+## Blog & Guides
+
+In-depth guides on finding OnlyFans creators, niches, pricing, safety, and how the platform works — updated regularly.
+
+**Browse by category:**
+
+| Category | Topics |
+|----------|--------|
+| 🔎 [Find Creators](https://searchonly.me/blog/find-creators) | Search by location, name, state, and content style |
+| ⭐ [Best Of](https://searchonly.me/blog/best) | Curated roundups — free, HD, by country, and more |
+| 🎯 [Niches](https://searchonly.me/blog/niches) | Ethnicity, fitness, cosplay, aesthetics, and other niches |
+| 📚 [Guides](https://searchonly.me/blog/guides) | What is OnlyFans, advanced search, pricing, download guides |
+| 📰 [Industry](https://searchonly.me/blog/industry) | Privacy, safety, Reddit, and platform news |
+
+**Popular reads:**
+
+- [What Is OnlyFans?](https://searchonly.me/blog/guides/what-is-onlyfans) — a complete beginner's guide
+- [How to Find OnlyFans Creators](https://searchonly.me/blog/find-creators/how-to-find-onlyfans-creators) — every method that works
+- [OnlyFans Search Engine Guide](https://searchonly.me/blog/guides/onlyfans-search-engine) — how creator search really works
+- [Best Free OnlyFans](https://searchonly.me/blog/best/best-free-onlyfans) — top free accounts to follow
+- [OnlyFans Pricing Guide](https://searchonly.me/blog/guides/onlyfans-pricing-guide) — what creators actually charge
+- [Is OnlyFans Worth It?](https://searchonly.me/blog/guides/is-onlyfans-worth-it) — an honest breakdown
+
+🔗 **Read the blog**: [searchonly.me/blog](https://searchonly.me/blog)
+
 ## Stats
 
 | Metric | Value |
 |--------|-------|
-| Indexed Profiles | 2,000,000+ |
+| Indexed Profiles | 2,300,000+ |
 | Daily Updates | ✅ |
 | Countries Covered | 150+ |
 | Filter Categories | 50+ |
@@ -144,6 +181,8 @@ Subscribe to status updates to get notified about any service disruptions or sch
 - 🔍 **Search**: [searchonly.me/search](https://searchonly.me/search)
 - 📸 **Photo Search**: [searchonly.me/photo-search](https://searchonly.me/photo-search)
 - 📍 **Near Me**: [searchonly.me/near-me](https://searchonly.me/near-me)
+- 🛠️ **Bio Generator**: [searchonly.me/tools/onlyfans-bio-generator](https://searchonly.me/tools/onlyfans-bio-generator)
+- 📝 **Blog**: [searchonly.me/blog](https://searchonly.me/blog)
 - 🧩 **Browser Extension**: [searchonly.me/extension](https://searchonly.me/extension)
 - 📊 **Status**: [status.searchonly.me](http://status.searchonly.me)
 - ❓ **FAQ**: [searchonly.me/faq](https://searchonly.me/faq)
@@ -192,7 +231,7 @@ Free tools and templates for OnlyFans creators:
 ## Frequently Asked Questions
 
 ### What is SearchOnly?
-SearchOnly is the largest **OnlyFans search engine** that helps users discover creators by niche, category, body type, location, and more. With over 2 million indexed profiles, it's the most comprehensive **OnlyFans finder** available.
+SearchOnly is the largest **OnlyFans search engine** that helps users discover creators by niche, category, body type, location, and more. With over 2.3 million indexed profiles, it's the most comprehensive **OnlyFans finder** available.
 
 ### How do I search for OnlyFans creators?
 Simply visit [searchonly.me](https://searchonly.me) and use our smart search bar or advanced filters. You can search by keywords, use natural language AI search, or even upload a photo to find similar creators.
