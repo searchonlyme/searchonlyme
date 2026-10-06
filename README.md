@@ -25,7 +25,7 @@
   <a href="https://searchonly.me">Website</a> •
   <a href="#features">Features</a> •
   <a href="#creator-pages--reviews">Creator Pages</a> •
-  <a href="#onlyfans-market-reports">Market Reports</a> •
+  <a href="#onlyfans-analytics">Analytics</a> •
   <a href="#free-creator-tools">Tools</a> •
   <a href="#blog--guides">Blog</a> •
   <a href="#browser-extension">Extension</a> •
@@ -87,6 +87,12 @@ Discover creators in your area with location-based search. Your privacy is alway
 ### 🆚 Compare
 Put up to three creators side by side — price, offers, growth and activity.
 
+### 🗺️ Locations
+Browse creators by country and city: [searchonly.me/locations](https://searchonly.me/locations).
+
+### 🔖 Saved Creators
+Save creators to your list in one click — no account needed — and share the list with a link: [searchonly.me/favorites](https://searchonly.me/favorites).
+
 ### ✨ Quiz & Discover
 Four questions to a list of matching creators ([quiz](https://searchonly.me/quiz)), and 15 [category hubs](https://searchonly.me/discover) with live counts and prices for every option.
 
@@ -110,11 +116,19 @@ Every creator has a page with what we measured on OnlyFans — every figure date
 - **Position** — where the creator stands in each category
 - **Reviews** — visitors rate and review creators; every review is read before it is published, and paid placements never affect reviews. Creators who verify their page can reply and get a weekly report on Telegram.
 
-## OnlyFans Market Reports
+## OnlyFans Analytics
 
-Daily OnlyFans market data, built from our own measurements: the fastest-growing creators overall and in 245 categories, a market overview, a monthly index and the methodology.
+Daily OnlyFans market data, built from our own checks of public profiles — every figure dated, free to cite.
 
-🔗 **Reports**: [searchonly.me/reports](https://searchonly.me/reports) • RSS: [feed.xml](https://searchonly.me/reports/feed.xml) • Atom: [feed.atom](https://searchonly.me/reports/feed.atom)
+| Report | What it shows | Link |
+|--------|---------------|------|
+| 📈 **Creator charts** | The fastest-growing creators — overall and in 245 categories (countries, cities, niches, body types) | [searchonly.me/reports](https://searchonly.me/reports) |
+| 📊 **Market data** | The OnlyFans market today: free vs paid share, typical prices, who is posting, growth | [searchonly.me/reports/market](https://searchonly.me/reports/market) |
+| 🗓️ **Monthly index** | The OnlyFans creator economy index, one issue per month | [searchonly.me/reports/latest-index](https://searchonly.me/reports/latest-index) |
+| 🔬 **Methodology** | How the data is collected and counted | [searchonly.me/reports/methodology](https://searchonly.me/reports/methodology) |
+| 📰 **Press** | Ready-to-quote figures, how to cite them, and embeddable live widgets with the source link built in | [searchonly.me/reports/press](https://searchonly.me/reports/press) |
+
+Feeds: [RSS](https://searchonly.me/reports/feed.xml) • [Atom](https://searchonly.me/reports/feed.atom)
 
 ## Browser Extension
 
@@ -138,6 +152,13 @@ Daily OnlyFans market data, built from our own measurements: the fastest-growing
 | Opera | 74+ | Coming soon |
 
 🔗 **Learn more**: [searchonly.me/extension](https://searchonly.me/extension)
+
+## For Creators
+
+- **Get listed** — [submit your profile](https://searchonly.me/submit) for free
+- **Claim your page** — prove it's yours with a code in your OnlyFans bio, reply to reviews and get a weekly report on Telegram
+- **Fix a category** — every creator page has a "Wrong category?" form
+- **Removal** — any creator can ask to be removed: [searchonly.me/removal](https://searchonly.me/removal)
 
 ## Free Creator Tools
 
@@ -207,7 +228,12 @@ Subscribe to status updates to get notified about any service disruptions or sch
 - 🔍 **Search**: [searchonly.me/search](https://searchonly.me/search)
 - 📸 **Photo Search**: [searchonly.me/photo-search](https://searchonly.me/photo-search)
 - 📍 **Near Me**: [searchonly.me/near-me](https://searchonly.me/near-me)
-- 📈 **Market reports**: [searchonly.me/reports](https://searchonly.me/reports)
+- 📈 **Creator charts**: [searchonly.me/reports](https://searchonly.me/reports)
+- 📊 **Market data**: [searchonly.me/reports/market](https://searchonly.me/reports/market)
+- 🗺️ **Locations**: [searchonly.me/locations](https://searchonly.me/locations)
+- 🔖 **Saved creators**: [searchonly.me/favorites](https://searchonly.me/favorites)
+- ➕ **Submit a profile**: [searchonly.me/submit](https://searchonly.me/submit)
+- ℹ️ **About**: [searchonly.me/about](https://searchonly.me/about)
 - 🧭 **Discover categories**: [searchonly.me/discover](https://searchonly.me/discover)
 - ✨ **Quiz**: [searchonly.me/quiz](https://searchonly.me/quiz)
 - 🆚 **Compare**: [searchonly.me/compare](https://searchonly.me/compare)
@@ -276,7 +302,7 @@ Our AI-powered **photo search** analyzes uploaded images and finds OnlyFans crea
 Profiles are **re-checked continuously**, and likes, prices and offers are recorded **every day** — so growth figures and price history come from real checks, each one dated.
 
 ### Where do the numbers come from?
-From our own checks of public OnlyFans profiles. Every figure on a creator page and in the [market reports](https://searchonly.me/reports) is measured, with the date it was checked — no estimates presented as facts.
+From our own checks of public OnlyFans profiles. Every figure on a creator page and in the [analytics](https://searchonly.me/reports) is measured, with the date it was checked — no estimates presented as facts.
 
 ### Can I read reviews of OnlyFans creators?
 Yes. Every creator page has reviews from visitors; each review is read before it is published, and paid placements never change them.

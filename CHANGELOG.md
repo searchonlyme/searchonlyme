@@ -14,7 +14,10 @@ The release where every number on the site comes from our own measurements.
 * **reviews**: visitors can rate and review a creator. Every review is read before it is published, and paid placements never affect reviews. Creators who verify their page can reply.
 * **creator claims**: a creator proves a page is theirs with a code in their OnlyFans bio, then gets a weekly report on Telegram.
 * **compare**: up to three creators side by side — price, offers, growth, activity.
-* **market reports**: daily OnlyFans market data at [searchonly.me/reports](https://searchonly.me/reports) — the fastest-growing creators overall and in 245 categories, a market overview, a monthly index and the methodology, with RSS and Atom feeds.
+* **analytics**: daily OnlyFans market data at [searchonly.me/reports](https://searchonly.me/reports) — creator charts (the fastest-growing creators overall and in 245 categories), market data, a monthly creator economy index, the methodology and a press page with ready-to-quote figures and embeddable live widgets; RSS and Atom feeds.
+* **saved creators**: save creators without an account and share the list with a link.
+* **locations**: browse creators by country and city.
+* **for creators**: free profile submission, page claims, a "Wrong category?" form and removal on request.
 * **free tools**: income calculator, pricing calculator, tip menu builder with live shareable menus, and a bio generator.
 * **browser extension**: FanPanel for Chrome and Firefox.
 * **blog**: guides on finding creators, niches, pricing and safety.
