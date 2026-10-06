@@ -1,6 +1,6 @@
 # SearchOnly
 
-> **SearchOnly** is the #1 OnlyFans search engine and creator discovery platform. Find OnlyFans creators by niche, category, location, and interest. The best OnlyFans finder and directory with 2.3M+ indexed profiles.
+> **SearchOnly** is an OnlyFans search engine and creator discovery platform: 2,396,509 public creator profiles, searchable by niche, category, location and interest — each with the price, growth and activity we measured on OnlyFans.
 
 <p align="center">
   <a href="https://searchonly.me">
@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://searchonly.me"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsearchonly.me&label=website" alt="Website Status"></a>
   <a href="http://status.searchonly.me"><img src="https://img.shields.io/badge/uptime-99.9%25-brightgreen" alt="Uptime"></a>
-  <img src="https://img.shields.io/badge/profiles-2.3M%2B-blue" alt="Indexed Profiles">
+  <img src="https://img.shields.io/badge/profiles-2.39M-blue" alt="Indexed Profiles">
   <img src="https://img.shields.io/badge/languages-7-orange" alt="Languages">
   <a href="https://chromewebstore.google.com/detail/fanpanel-by-searchonly/khpgaekmabokiijjjbmoeakpccpdoenl"><img src="https://img.shields.io/chrome-web-store/v/khpgaekmabokiijjjbmoeakpccpdoenl?label=chrome" alt="Chrome Web Store"></a>
   <a href="https://addons.mozilla.org/firefox/addon/fanpanel-by-searchonly/"><img src="https://img.shields.io/amo/v/fanpanel-by-searchonly?label=firefox" alt="Firefox Add-ons"></a>
@@ -24,6 +24,8 @@
 <p align="center">
   <a href="https://searchonly.me">Website</a> •
   <a href="#features">Features</a> •
+  <a href="#creator-pages--reviews">Creator Pages</a> •
+  <a href="#onlyfans-market-reports">Market Reports</a> •
   <a href="#free-creator-tools">Tools</a> •
   <a href="#blog--guides">Blog</a> •
   <a href="#browser-extension">Extension</a> •
@@ -56,7 +58,7 @@ SearchOnly solves this by indexing public creator profiles and providing powerfu
 
 ## About
 
-**SearchOnly** is the largest **OnlyFans creator search engine** and **OnlyFans finder** with over **2,300,000+ indexed profiles**. Our AI-powered platform helps users discover and find OnlyFans creators based on their preferences using advanced filters and smart search capabilities.
+**SearchOnly** is an **OnlyFans creator search engine** and **OnlyFans finder** indexing **2,396,509 public creator profiles** — 677,812 of them free to follow — from 197 countries. Search them in plain language, with 687 filter options or by photo, and see for every creator what we measured on OnlyFans: price and offers, likes growth, posting rhythm and reviews.
 
 Whether you're looking for a specific type of creator, searching OnlyFans by location, or want to find similar creators using photo search — SearchOnly is the ultimate **OnlyFans directory** and **creator discovery tool**.
 
@@ -82,6 +84,12 @@ Upload any photo and our AI will find creators with similar features. Fast, free
 ### 📍 Near Me
 Discover creators in your area with location-based search. Your privacy is always protected.
 
+### 🆚 Compare
+Put up to three creators side by side — price, offers, growth and activity.
+
+### ✨ Quiz & Discover
+Four questions to a list of matching creators ([quiz](https://searchonly.me/quiz)), and 15 [category hubs](https://searchonly.me/discover) with live counts and prices for every option.
+
 ### 🌍 Multi-Language Support
 Available in 7 languages:
 - 🇺🇸 English
@@ -91,6 +99,22 @@ Available in 7 languages:
 - 🇩🇪 Deutsch
 - 🇯🇵 日本語
 - 🇰🇷 한국어
+
+## Creator Pages & Reviews
+
+Every creator has a page with what we measured on OnlyFans — every figure dated:
+
+- **Price & offers** — the price now, promotions and free trials, bundles, and the price per new photo or video
+- **Growth** — likes over time, measured at every check
+- **Activity** — posting rhythm week by week
+- **Position** — where the creator stands in each category
+- **Reviews** — visitors rate and review creators; every review is read before it is published, and paid placements never affect reviews. Creators who verify their page can reply and get a weekly report on Telegram.
+
+## OnlyFans Market Reports
+
+Daily OnlyFans market data, built from our own measurements: the fastest-growing creators overall and in 245 categories, a market overview, a monthly index and the methodology.
+
+🔗 **Reports**: [searchonly.me/reports](https://searchonly.me/reports) • RSS: [feed.xml](https://searchonly.me/reports/feed.xml) • Atom: [feed.atom](https://searchonly.me/reports/feed.atom)
 
 ## Browser Extension
 
@@ -122,7 +146,7 @@ Free, no-registration tools for OnlyFans creators — built by SearchOnly:
 | Tool | What it does | Link |
 |------|--------------|------|
 | ✍️ **Bio Generator** | Generate a scroll-stopping OnlyFans bio in seconds | [onlyfans-bio-generator](https://searchonly.me/tools/onlyfans-bio-generator) |
-| 💸 **Tip Menu Builder** | Build and export a formatted tip menu / PPV price list | [onlyfans-tip-menu-builder](https://searchonly.me/tools/onlyfans-tip-menu-builder) |
+| 💸 **Tip Menu Builder** | Build, export and share a live tip menu / PPV price list | [onlyfans-tip-menu-builder](https://searchonly.me/tools/onlyfans-tip-menu-builder) |
 | 📈 **Income Calculator** | Estimate monthly earnings from subscribers, tips, and PPV | [onlyfans-income-calculator](https://searchonly.me/tools/onlyfans-income-calculator) |
 | 🏷️ **Pricing Calculator** | Find the optimal subscription price for your audience | [onlyfans-pricing-calculator](https://searchonly.me/tools/onlyfans-pricing-calculator) |
 
@@ -155,10 +179,12 @@ In-depth guides on finding OnlyFans creators, niches, pricing, safety, and how t
 
 | Metric | Value |
 |--------|-------|
-| Indexed Profiles | 2,300,000+ |
-| Daily Updates | ✅ |
-| Countries Covered | 150+ |
-| Filter Categories | 50+ |
+| Indexed profiles | 2,396,509 |
+| Free to follow | 677,812 |
+| Countries | 197 |
+| Filter options | 687 in 15 categories |
+| Market report categories | 245 |
+| Languages | 7 |
 
 ## Service Status & Uptime
 
@@ -181,6 +207,10 @@ Subscribe to status updates to get notified about any service disruptions or sch
 - 🔍 **Search**: [searchonly.me/search](https://searchonly.me/search)
 - 📸 **Photo Search**: [searchonly.me/photo-search](https://searchonly.me/photo-search)
 - 📍 **Near Me**: [searchonly.me/near-me](https://searchonly.me/near-me)
+- 📈 **Market reports**: [searchonly.me/reports](https://searchonly.me/reports)
+- 🧭 **Discover categories**: [searchonly.me/discover](https://searchonly.me/discover)
+- ✨ **Quiz**: [searchonly.me/quiz](https://searchonly.me/quiz)
+- 🆚 **Compare**: [searchonly.me/compare](https://searchonly.me/compare)
 - 🛠️ **Bio Generator**: [searchonly.me/tools/onlyfans-bio-generator](https://searchonly.me/tools/onlyfans-bio-generator)
 - 📝 **Blog**: [searchonly.me/blog](https://searchonly.me/blog)
 - 🧩 **Browser Extension**: [searchonly.me/extension](https://searchonly.me/extension)
@@ -231,7 +261,7 @@ Free tools and templates for OnlyFans creators:
 ## Frequently Asked Questions
 
 ### What is SearchOnly?
-SearchOnly is the largest **OnlyFans search engine** that helps users discover creators by niche, category, body type, location, and more. With over 2.3 million indexed profiles, it's the most comprehensive **OnlyFans finder** available.
+SearchOnly is an **OnlyFans search engine** that helps users discover creators by niche, category, body type, location and more. It indexes 2,396,509 public creator profiles and shows, for each one, the price, growth and activity measured on OnlyFans.
 
 ### How do I search for OnlyFans creators?
 Simply visit [searchonly.me](https://searchonly.me) and use our smart search bar or advanced filters. You can search by keywords, use natural language AI search, or even upload a photo to find similar creators.
@@ -242,8 +272,14 @@ Yes! SearchOnly is completely **free to use**. No registration required. Just se
 ### How does Photo Search work?
 Our AI-powered **photo search** analyzes uploaded images and finds OnlyFans creators with similar features. It's fast, accurate, and respects your privacy — we don't store uploaded photos.
 
-### How often is the database updated?
-Our database is updated **daily** to ensure you have access to the latest creator profiles and information.
+### How often is the data updated?
+Profiles are **re-checked continuously**, and likes, prices and offers are recorded **every day** — so growth figures and price history come from real checks, each one dated.
+
+### Where do the numbers come from?
+From our own checks of public OnlyFans profiles. Every figure on a creator page and in the [market reports](https://searchonly.me/reports) is measured, with the date it was checked — no estimates presented as facts.
+
+### Can I read reviews of OnlyFans creators?
+Yes. Every creator page has reviews from visitors; each review is read before it is published, and paid placements never change them.
 
 ### Can I find OnlyFans creators near me?
 Yes! Use our [Near Me](https://searchonly.me/near-me) feature to discover creators in your area. Location-based search helps you find local OnlyFans creators while protecting your privacy.
