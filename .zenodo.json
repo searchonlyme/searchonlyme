@@ -1,0 +1,31 @@
+{
+  "title": "SearchOnly OnlyFans Market Data (daily)",
+  "upload_type": "dataset",
+  "description": "<p>Daily aggregate figures about the OnlyFans creator market, measured from public profiles by SearchOnly: profiles indexed, live, new and gone; the share of free accounts; median and average paid subscription prices; weekly price changes. Aggregates only, no creator names or identifiers.</p><p>One row per day in <code>data/market-daily.csv</code>; method: <a href=\"https://searchonly.me/reports/methodology\">searchonly.me/reports/methodology</a>.</p>",
+  "creators": [
+    {
+      "name": "SearchOnly"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "OnlyFans",
+    "creator economy",
+    "subscription prices",
+    "market data",
+    "time series"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://searchonly.me/reports",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://searchonly.me/reports/methodology",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    }
+  ]
+}
