@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "SearchOnly OnlyFans Market Data (daily)"
+authors:
+  - name: "SearchOnly"
+    website: "https://searchonly.me"
+license: CC-BY-4.0
+url: "https://searchonly.me/reports"
+repository-code: "https://github.com/searchonlyme/searchonlyme"
+abstract: "Daily aggregate figures about the OnlyFans creator market, measured from public profiles by SearchOnly: profiles indexed, live, new and gone; the share of free accounts; median and average paid subscription prices; weekly price changes. Aggregates only, no creator names or identifiers."
+keywords:
+  - "OnlyFans"
+  - "creator economy"
+  - "subscription prices"
+  - "market data"
+  - "time series"
