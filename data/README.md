@@ -7,7 +7,8 @@ appended automatically after each nightly report.
 - **File:** [`market-daily.csv`](market-daily.csv)
 - **Method:** https://searchonly.me/reports/methodology
 - **Live reports and charts:** https://searchonly.me/reports
-- **Cite:** see [`CITATION.cff`](../CITATION.cff); monthly versions are archived with a DOI on Zenodo.
+- **On Kaggle:** https://www.kaggle.com/datasets/searchonly/onlyfans-market-data-daily
+- **Cite:** see [`CITATION.cff`](../CITATION.cff); every month is kept as a GitHub release (`data-YYYY-MM`).
 - **Licence:** [CC BY 4.0](LICENSE) — free to use,
   share and adapt with attribution: *"Source: SearchOnly (searchonly.me)"*, with a link.
 
